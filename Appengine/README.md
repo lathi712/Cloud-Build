@@ -1,7 +1,7 @@
 Cloud Build
 
-1. Step Deploy the sample app using
-gcloud app deploy app.yaml
+1. Step Deploy the sample app using<br/>
+```gcloud app deploy app.yaml```
 
 Create a trigger
 https://console.cloud.google.com/cloud-build/triggers?_ga=2.28946108.1489868234.1599958411-449237932.1599358021&_gac=1.36375572.1599358022.EAIaIQobChMIuOT087jT6wIVYRitBh1pmAA6EAAYASAAEgLmbfD_BwE
